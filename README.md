@@ -29,7 +29,7 @@ This project involves designing a First-In-First-Out (FIFO) memory using Verilog
 | FIFO_DEPTH | 512           | Memory depth.                              |
 
 ## Schematic
-![Add your schematic image here]
+![FIFO_States](Schematic/FIFO_Cases.png)
 
 ## Functionality
 The FIFO memory supports two main operations:
